@@ -1,0 +1,11 @@
+.RData
+.Rhistory
+.Rprofile
+.Rproj.user
+client-data-files
+output
+packrat/src/
+packrat/lib*/
+R-scripts/old-versions
+
+
